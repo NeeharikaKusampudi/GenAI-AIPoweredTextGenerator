@@ -29,7 +29,7 @@ Before running the script, ensure you have the following:
 1. Replace the placeholder `openai.api_key` with your actual OpenAI API key.
 2. Run the script:
    ```sh
-   python script.py
+   python genai.py
    ```
 3. Enter your prompt when prompted.
 4. The script will return the AI-generated response.
